@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Основная форма</string>
+    <string name="intent">Тест</string>
+    <string name="notification">Уведомление</string>
+    <string name="notify">Уведомление</string>
+    <string name="testName">Тест</string>
+    <string name="btnTest">Проверить</string>
+    <string name="rbItem1">Телефон</string>
+    <string name="rbItem2">2</string>
+    <string name="rbItem3">3</string>
+    <string name="btnAddFragment">Добавить</string>
+    <string name="btnAddTwo">Еще</string>
+    <string name="txtFragOne">Текст фрагмента 1</string>
+    <string name="txtFragTwo">Текст фрагмента 2</string>
+    <string name="btnFrag">Фрагменты</string>
+    <string name="btnFragOne1">Кнопка</string>
+    <string name="btnFragTwo1">Кнопка</string>
+
+
+</resources>
