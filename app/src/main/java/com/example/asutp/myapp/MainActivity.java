@@ -126,6 +126,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                startActivity(intent);
                Log.v(TAG, "Кнопка нажата");
                break;
+           //проверка GitHub
     }
 
     }
